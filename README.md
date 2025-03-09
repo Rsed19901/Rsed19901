@@ -5,9 +5,11 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+rsed1990R
 
 <!---
-Rsed19901/Rsed19901 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Rsed19901/Rsed19901 is a ![1000015394](https://github.com/user-attachments/assets/bf6a3a22-8252-447f-bbba-0268b86d2245)
+✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --
 
